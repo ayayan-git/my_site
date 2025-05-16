@@ -1,0 +1,79 @@
+@charset "UTF-8";
+
+
+body {
+    font-family:"ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", sans-serif, Verdana, "メイリオ", "Meiryo", "ＭＳ Ｐゴシック", "MS PGothic", Sans-Serif;
+    background-color: #F0EBEA;
+}
+
+header {
+    background-color: ;
+}
+
+h1 {
+    color: ;
+    font-size: ;
+    font-weight: ;
+    padding: ;
+}
+
+.main-visual {
+    background-image: url();
+    background-size: ;
+    background-position: ;
+    height: ;
+    text-align: ;
+}
+
+h2 {
+    color:　;
+    font-size: ;
+    font-weight: ;
+    padding-top: ;
+}
+
+h3 {
+    color: ;
+    font-size: ;
+    font-weight: ;
+    margin-bottom: ;
+}
+
+h4 {
+    color: ;
+    font-size: ;
+    margin-bottom: ;
+}
+
+p {
+    color: ;
+    font-size: ;
+    line-height: ;
+}
+
+.about {
+    background-color: ;
+    padding: ;
+    text-align: ;
+}
+
+
+
+a {
+
+}
+
+
+
+
+a:hover {
+  background-color: ;
+}
+
+footer {
+    background-color: ;
+    color: #fff;
+    font-size: 14px;
+    padding: ;
+    text-align: center;
+}
